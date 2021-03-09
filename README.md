@@ -7,7 +7,7 @@
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-badge&logo=redux)
 </br></br>
-![](https://img.shields.io/badge/-white?style=for-badge&logo=gmail) ### Mail me: Lineviktoriya@gmail.com
+![](https://img.shields.io/badge/-white?style=for-badge&logo=gmail) Mail me: Lineviktoriya@gmail.com
 
 
 <!--

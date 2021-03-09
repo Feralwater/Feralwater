@@ -6,7 +6,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-badge&logo=redux)
-</br></br>
+></br>
 ![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) Lineviktoriya@gmail.com
 
 

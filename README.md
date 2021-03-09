@@ -1,5 +1,7 @@
 # 👋 Hi, my name is **Viktoriya Buyakova**!
 ## I`m a beginner *Front-end developer* from Minsk.
+
+https://img.shields.io/badge/%3CHTML%3E-orange
 <!--
 **Feralwater/Feralwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

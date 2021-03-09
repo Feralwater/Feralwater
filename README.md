@@ -1,7 +1,11 @@
 # 👋 Hi, my name is **Viktoriya Buyakova**!
 ## I`m a beginner *Front-end developer* from Minsk.
 
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-badge&logo=html5)
+![HTML](https://img.shields.io/badge/-HTML-black?style=for-badge&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-badge&logo=css3)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-badge&logo=javascript)
+![REACT](https://img.shields.io/badge/-REACT-090909?style=for-badge&logo=react)
+![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-badge&logo=redux)
 <!--
 **Feralwater/Feralwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# 👋 Hi, my name is **Viktoriya Buyakova**!
+## I`m a beginner *Front-end developer* from Minsk.
 <!--
 **Feralwater/Feralwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -6,9 +6,9 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-badge&logo=redux)
-</br>
+</br></br>
 ![](https://img.shields.io/badge/-white?style=for-badge&logo=gmail)
-###mail me: Lineviktoriya@gmail.com
+### MAIL ME: Lineviktoriya@gmail.com
 
 <!--
 **Feralwater/Feralwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

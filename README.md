@@ -16,7 +16,7 @@ See ya 👋.
 #### Here is some information:
 > :clipboard: [about me](https://www.google.by)    
 > :mortar_board: [my education](https://www.google.by)    
-> :hammer: [my projects]("#projects")    
+> :hammer: <a href="#projects">My projects</a>    
 > :email: [contacts](https://www.google.by)    
 
 <h2 id="projects">:hammer: Projects</h2>

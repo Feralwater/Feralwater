@@ -54,7 +54,7 @@ Polotsk State University
 <a href="https://feralwater.github.io/logo_shop/"><img height="40" src="https://github.com/Feralwater/logo_shop/blob/main/img/logo.png"></a>
 <a href="https://feralwater.github.io/pizza/"><img height="40" src="https://github.com/Feralwater/pizza/blob/main/img/logo.png"></a>
 <a href="https://feralwater.github.io/smoothy/"><img height="40" src="https://github.com/Feralwater/smoothy/blob/main/img/logo.png"></a>
-
+<a href="https://feralwater.github.io/beauty/"><img height="40" src="https://github.com/Feralwater/beauty/blob/main/img/logo.svg"></a>
 
 
 <h2 id="contacts">:email: My contacts</h2>

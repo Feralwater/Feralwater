@@ -1,19 +1,26 @@
-# 👋 Hey there, my name is **Viktoriya Buyakova**!
-## I`m a beginner *Front-end developer* from Minsk.
-
-```
-Here is some information [about me](https://www.google.by), [my projects](https://www.google.by), [contacts](https://www.google.by) and etc.
-Maybe you wanna see my CV so 📝 here it is
-See ya 👋.
-```
-[about me](https://www.google.by), [my projects](https://www.google.by), [contacts](https://www.google.by)
-
+# 👋 Hey there, my name is **Viktoriya Buyakova**!    
+## I`m a beginner *Front-end developer* from Minsk.    
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-badge&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-badge&logo=redux)
-></br>
+#### Welcome to my github repository
+<!--
+```
+Here is some information [about me](https://www.google.by), [my projects](https://www.google.by), [contacts](https://www.google.by) and etc.
+Maybe you wanna see my CV so 📝 here it is
+See ya 👋.
+```
+-->
+#### Here is some information:
+> :clipboard: [about me](https://www.google.by)    
+> :mortar_board: [my education](https://www.google.by)    
+> :hammer: [my projects](https://www.google.by)    
+> :email: [contacts](https://www.google.by)    
+
+
+
 <!--![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->
 - 📫 How to reach me: Lineviktoriya@gmail.com
 

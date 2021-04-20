@@ -60,7 +60,7 @@ How to reach me:
 - :iphone: +375 (29) 224-48-84
 <!--![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->
 
-> 🦆Fun fact: If it looks like a duck, swims like a duck and quacks like a duck, then it probably is a duck.
+> 🦆Fun fact: _If it looks like a duck, swims like a duck and quacks like a duck, then it probably is a duck._
 
 
 Thanks for visiting my page!:ghost: Have a nice day! :high_brightness:

@@ -30,13 +30,14 @@ See ya 👋.
 
 <h2 id="projects">:hammer: My projects</h2>
 
-
 <a href="https://feralwater.github.io/Lemon/"><img height="40" src="https://github.com/Feralwater/Lemon/blob/main/img/lemon.png"></a>
 <a href="https://feralwater.github.io/Sloohi-bar/"><img height="40" src="https://github.com/Feralwater/Sloohi-bar/blob/main/img/logo.png"></a>
 <a href="https://feralwater.github.io/logo_shop/"><img height="40" src="https://github.com/Feralwater/logo_shop/blob/main/img/logo.png"></a>
 
 <h2 id="contacts">:email: My contacts</h2>
-- 📫 How to reach me: Lineviktoriya@gmail.com
+How to reach me: 
+- 📫 Lineviktoriya@gmail.com
+-:iphone: +375 (29) 224-48-84
 <!--![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->
 
 > 🦆Fun fact: If it looks like a duck, swims like a duck and quacks like a duck, then it probably is a duck.

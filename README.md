@@ -16,11 +16,13 @@ See ya 👋.
 #### Here is some information:
 > :clipboard: [about me](https://www.google.by)    
 > :mortar_board: [my education](https://www.google.by)    
-> :hammer: [my projects](https://www.google.by)    
+> :hammer: [my projects]("#projects")    
 > :email: [contacts](https://www.google.by)    
 
+<h2 id="projects">:hammer: Projects</h2>
+___
 <a href="https://feralwater.github.io/Lemon/">
-    <img height="40" src="https://github.com/Feralwater/Lemon/blob/main/img/Lemon.png">
+    <img height="40" src="https://github.com/Feralwater/Lemon/blob/main/img/lemon.png">
   </a>
 
 

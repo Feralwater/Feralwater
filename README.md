@@ -28,6 +28,18 @@ See ya 👋.
 
 <h2 id="education">:mortar_board: My education</h2>
 
+- Bachelor of Engineering,    
+Polotsk State University
+2012 – 2018 
+- [English elementary](https://simpler.link/c/g0WAe), 2020
+- [English intermediate](https://simpler.link/c/wdbee), 2020
+- [English pre-intermediate](https://simpler.link/c/WLLkm), 2020
+- [English upper-intermediate](https://simpler.link/c/EdneY#), 2020
+- [HTML](https://www.sololearn.com/Certificate/1014-19144799/jpg), 2020
+- [CSS](https://www.sololearn.com/Certificate/1023-19144799/jpg), 2020
+- [JS](https://www.sololearn.com/certificates/course/en/19144799/1024/landscape/png), 2021
+- [React+Redux](https://www.sololearn.com/Certificate/1097-19144799/jpg), 2021
+
 <h2 id="projects">:hammer: My projects</h2>
 
 <a href="https://feralwater.github.io/Lemon/"><img height="40" src="https://github.com/Feralwater/Lemon/blob/main/img/lemon.png"></a>

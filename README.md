@@ -14,7 +14,7 @@ See ya 👋.
 ```
 -->
 #### Here is some information:
-> :clipboard: [about me](https://www.google.by)    
+> :clipboard: [about me](#https://www.google.by)    
 > :mortar_board: [my education](https://www.google.by)    
 > :hammer: [my projects](https://www.google.by)    
 > :email: [contacts](https://www.google.by)    

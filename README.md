@@ -33,9 +33,8 @@ See ya 👋.
 <h2 id="projects">:hammer: My projects</h2>
 
 
-<a href="https://feralwater.github.io/Lemon/">
-    <img height="40" src="https://github.com/Feralwater/Lemon/blob/main/img/lemon.png">
-  </a>
+<a href="https://feralwater.github.io/Lemon/"><img height="40" src="https://github.com/Feralwater/Lemon/blob/main/img/lemon.png"></a>
+<a href="https://feralwater.github.io/Sloohi-bar/"><img height="40" src="https://github.com/Feralwater/Sloohi-bar/blob/main/img/logo.png"></a>
 
 <h2 id="contacts">:email: My contacts</h2>
 - 📫 How to reach me: Lineviktoriya@gmail.com

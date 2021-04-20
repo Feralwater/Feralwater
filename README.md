@@ -2,7 +2,7 @@
 ## I`m a beginner *Front-end developer* from Minsk.
 
 ```
-Here is some information about me, my experience, projects, contacts and etc.
+Here is some information [about me](https://www.google.by), [my projects](https://www.google.by), [contacts](https://www.google.by) and etc.
 Maybe you wanna see my CV so 📝 here it is.
 See ya 👋.
 ```

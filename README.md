@@ -3,9 +3,10 @@
 
 ```
 Here is some information [about me](https://www.google.by), [my projects](https://www.google.by), [contacts](https://www.google.by) and etc.
-Maybe you wanna see my CV so 📝 here it is.[example.com](http://example.com)
+Maybe you wanna see my CV so 📝 here it is
 See ya 👋.
 ```
+[about me](https://www.google.by), [my projects](https://www.google.by), [contacts](https://www.google.by)
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-badge&logo=css3)
@@ -15,7 +16,7 @@ See ya 👋.
 ></br>
 <!--![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->
 - 📫 How to reach me: Lineviktoriya@gmail.com
-[example.com](http://example.com)
+
 <!--
 **Feralwater/Feralwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

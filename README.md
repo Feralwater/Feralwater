@@ -19,7 +19,9 @@ See ya 👋.
 > :hammer: [my projects](https://www.google.by)    
 > :email: [contacts](https://www.google.by)    
 
-
+<a href="https://feralwater.github.io/Lemon/">
+    <img height="40" src="https://github.com/Feralwater/Lemon/blob/main/img/Lemon.png">
+  </a>
 
 
 <!--![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->

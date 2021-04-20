@@ -1,5 +1,9 @@
-# 👋 Hi, my name is **Viktoriya Buyakova**!
+# 👋 Hey there, my name is **Viktoriya Buyakova**!
 ## I`m a beginner *Front-end developer* from Minsk.
+
+Here is some information about me, my experience, projects, contacts and etc.
+Maybe you wanna see my CV so 📝 here it is.
+See ya 👋.
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-badge&logo=css3)

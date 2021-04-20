@@ -5,6 +5,12 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-badge&logo=redux)
+![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-badge&logo=github)
+![SASS](https://img.shields.io/badge/-SASS-090909?style=for-badge&logo=sass)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-badge&logo=bootstrap)
+![GIT](https://img.shields.io/badge/-GIT-090909?style=for-badge&logo=git)
+![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-badge&logo=figma)
+![ADOBE PHOTOSHOP](https://img.shields.io/badge/-ADOBE_PHOTOSHOP-090909?style=for-badge&logo=adobe-photoshop)
 #### Welcome to my github repository
 <!--
 ```

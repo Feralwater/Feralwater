@@ -39,6 +39,7 @@ Polotsk State University
 - [CSS](https://www.sololearn.com/Certificate/1023-19144799/jpg), 2020
 - [JS](https://www.sololearn.com/certificates/course/en/19144799/1024/landscape/png), 2021
 - [React+Redux](https://www.sololearn.com/Certificate/1097-19144799/jpg), 2021
+- https://www.codewars.com/users/feralwater
 
 <h2 id="projects">:hammer: My projects</h2>
 

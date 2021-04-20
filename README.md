@@ -35,8 +35,8 @@ See ya 👋.
 <a href="https://feralwater.github.io/logo_shop/"><img height="40" src="https://github.com/Feralwater/logo_shop/blob/main/img/logo.png"></a>
 
 <h2 id="contacts">:email: My contacts</h2>
-How to reach me: 
-- 📫 Lineviktoriya@gmail.com
+How to reach me:    
+- 📫 Lineviktoriya@gmail.com    
 -:iphone: +375 (29) 224-48-84
 <!--![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->
 

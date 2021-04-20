@@ -14,25 +14,12 @@ See ya 👋.
 ```
 -->
 #### Here is some information:
-> :clipboard: [about me](https://www.google.by)    
-> :mortar_board: [my education](https://www.google.by)    
+> :clipboard: <a href="#about">About me</a>     
+> :mortar_board: <a href="#education">My education</a>    
 > :hammer: <a href="#projects">My projects</a>    
-> :email: [contacts](https://www.google.by)    
+> :email: <a href="#contacts">My contacts</a>   
 
-<h2 id="projects">:hammer: Projects</h2>
-___
-<a href="https://feralwater.github.io/Lemon/">
-    <img height="40" src="https://github.com/Feralwater/Lemon/blob/main/img/lemon.png">
-  </a>
-
-
-<!--![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->
-- 📫 How to reach me: Lineviktoriya@gmail.com
-
-<!--
-**Feralwater/Feralwater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<h2 id="about">:clipboard: About me</h2>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -42,6 +29,16 @@ Here are some ideas to get you started:
  
 - 😄 Pronouns: ...
 
--->
-></br>
+<h2 id="education">mortar_board: My education</h2>
+<h2 id="projects">:hammer: My projects</h2>
+
+
+<a href="https://feralwater.github.io/Lemon/">
+    <img height="40" src="https://github.com/Feralwater/Lemon/blob/main/img/lemon.png">
+  </a>
+
+<h2 id="contacts">:email: My contacts</h2>
+- 📫 How to reach me: Lineviktoriya@gmail.com
+<!--![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->
+
 > - ⚡ Fun fact: If it looks like a duck, swims like a duck and quacks like a duck, then it probably is a duck.

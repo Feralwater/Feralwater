@@ -3,7 +3,7 @@
 
 ```
 Here is some information [about me](https://www.google.by), [my projects](https://www.google.by), [contacts](https://www.google.by) and etc.
-Maybe you wanna see my CV so 📝 here it is.[sabaka.net](http://sabaka.net)
+Maybe you wanna see my CV so 📝 here it is.[example.com](http://example.com)
 See ya 👋.
 ```
 

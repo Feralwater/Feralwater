@@ -22,7 +22,8 @@ See ya 👋.
 #### Here is some information:
 > :clipboard: <a href="#about">About me</a>     
 > :mortar_board: <a href="#education">My education</a>    
-> :hammer: <a href="#projects">My projects</a>    
+> :hammer: <a href="#projectshtml">My HTML+CSS+JS projects</a>  
+> :hammer: <a href="#projects">My React+Redux projects</a>  
 > :email: <a href="#contacts">My contacts</a>   
 
 <h2 id="about">:clipboard: About me</h2>
@@ -47,7 +48,7 @@ Polotsk State University
 - [React+Redux](https://www.sololearn.com/Certificate/1097-19144799/jpg), 2021
 - https://www.codewars.com/users/feralwater
 
-<h2 id="projects">:hammer: My projects</h2>
+<h2 id="projectshtml">:hammer: My HTML+CSS+JS projects</h2>
 
 <a href="https://feralwater.github.io/Lemon/"><img height="40" src="https://github.com/Feralwater/Lemon/blob/main/img/lemon.png"></a>
 <a href="https://feralwater.github.io/Sloohi-bar/"><img height="40" src="https://github.com/Feralwater/Sloohi-bar/blob/main/img/logo.png"></a>
@@ -56,12 +57,12 @@ Polotsk State University
 <a href="https://feralwater.github.io/smoothy/"><img height="40" src="https://github.com/Feralwater/smoothy/blob/main/img/logo.png"></a>
 <a href="https://feralwater.github.io/beauty/"><img height="40" src="https://github.com/Feralwater/beauty/blob/main/img/logo.svg"></a>
 <a href="https://feralwater.github.io/mi-travel/"><img height="40" src="https://github.com/Feralwater/mi-travel/blob/main/img/logo.png"></a>
+
+<h2 id="projects">:hammer: My React+Redux projects</h2>
+
 <a href="https://startup-summer-2021-test-task.vercel.app/"><img height="40" src="https://github.com/Feralwater/Startup-Summer-2021-Test-Task/blob/main/my-app/public/favicon.ico"></a>
 <a href="https://exchange-rate-ksbpoexgy-feralwater.vercel.app/"><img height="40" src="https://github.com/Feralwater/exchange-rate/blob/main/my-app/public/favicon.ico"></a>
 <a href="https://scandiweb-test-task-bh0au976s-feralwater.vercel.app/"><img height="40" src="https://github.com/Feralwater/scandiweb-test-task/blob/main/my-app/public/favicon.ico"></a>
-
-
-
 
 <h2 id="contacts">:email: My contacts</h2>
 How to reach me:   

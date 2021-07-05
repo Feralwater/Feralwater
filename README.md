@@ -28,7 +28,7 @@ See ya 👋.
 
 <h2 id="about">:clipboard: About me</h2>
 
-- 🔭 I’m currently working on my first own react project
+- 🔭 I’m currently working on react projects
 - :books: I’m currently learning React, Redux, TypeScript
 - 👯 I’m looking to collaborate on interesting people whith the same interests
 - 💬 Ask me about whatever you want 😄

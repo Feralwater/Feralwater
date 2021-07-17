@@ -62,7 +62,7 @@ Polotsk State University
 
 <a href="https://startup-summer-2021-test-task.vercel.app/"><img height="40" src="https://github.com/Feralwater/Startup-Summer-2021-Test-Task/blob/main/my-app/public/favicon.ico"></a>
 <a href="https://exchange-rate-ksbpoexgy-feralwater.vercel.app/"><img height="40" src="https://github.com/Feralwater/exchange-rate/blob/main/my-app/public/favicon.ico"></a>
-<a href="https://scandiweb-test-task-bh0au976s-feralwater.vercel.app/"><img height="40" src="https://github.com/Feralwater/scandiweb-test-task/blob/main/public/favicon.ico"></a>
+<a href="https://scandiweb-test-task-git-main-feralwater.vercel.app/"><img height="40" src="https://github.com/Feralwater/scandiweb-test-task/blob/main/public/favicon.ico"></a>
 
 <h2 id="contacts">:email: My contacts</h2>
 How to reach me:   

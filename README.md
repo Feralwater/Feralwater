@@ -1,4 +1,4 @@
-# 👋 Hey there, my name is **Viktoriya Buyakova**!    
+# 👋 Hey there, my name is **Viсtoria Buyakova**!    
 ## I`m a beginner *Front-end developer* from Minsk.    
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-badge&logo=css3)

@@ -28,7 +28,7 @@ See ya 👋.
 
 <h2 id="about">:clipboard: About me</h2>
 
-- 🔭 I’m a student of IT-INCUBATOR
+- 🔭 I’m a student of [IT-INCUBATOR](https://it-incubator.by/)
 - :books: I’m currently learning React, Redux, TypeScript
 - 👯 I’m looking to collaborate on interesting people whith the same interests
 - 💬 Ask me about whatever you want 😄

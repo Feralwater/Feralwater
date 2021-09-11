@@ -66,7 +66,8 @@ Polotsk State University
 <a href="https://scandiweb-test-task-git-main-feralwater.vercel.app/"><img height="40" src="https://github.com/Feralwater/scandiweb-test-task/blob/main/public/favicon.ico"></a>
 <a href="https://react-website-rho.vercel.app/"><img height="40" src="https://github.com/Feralwater/react-website/blob/main/my-app/public/favicon.ico"></a>
 <a href="https://to-do-list-taupe-tau.vercel.app/"><img height="40" src="https://github.com/Feralwater/to-do-list/blob/main/my-app/public/favicon.ico"></a>
-<a href="https://to-do-list-taupe-tau.vercel.app/"><img height="40" src="https://github.com/Feralwater/PostsBoard-Application/blob/main/public/favicon.ico"></a>
+<a href="https://posts-board-application.vercel.app/"><img height="40" src="https://github.com/Feralwater/PostsBoard-Application/blob/main/public/favicon.ico"></a>
+<a href="https://user-table.vercel.app/"><img height="40" src="https://github.com/Feralwater/user-table/blob/master/public/favicon.ico"></a>
 
 
 <h2 id="contacts">:email: My contacts</h2>

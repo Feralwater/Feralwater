@@ -62,7 +62,7 @@ Polotsk State University
 
 <h2 id="projects">:hammer: My React+Redux projects</h2>
 
-<a href="https://startup-summer-2021-test-task.vercel.app/"><img height="40" src="https://github.com/Feralwater/Startup-Summer-2021-Test-Task/blob/main/my-app/public/favicon.ico"></a>
+<a href="https://startup-gitpage.vercel.app/"><img height="40" src="https://github.com/Feralwater/Startup-Summer-2021-Test-Task/blob/main/my-app/public/favicon.ico"></a>
 <a href="https://exchange-rate-ksbpoexgy-feralwater.vercel.app/"><img height="40" src="https://github.com/Feralwater/exchange-rate/blob/main/my-app/public/favicon.ico"></a>
 <a href="https://scandiweb-test-task-git-main-feralwater.vercel.app/"><img height="40" src="https://github.com/Feralwater/scandiweb-test-task/blob/main/public/favicon.ico"></a>
 <a href="https://react-website-rho.vercel.app/"><img height="40" src="https://github.com/Feralwater/react-website/blob/main/my-app/public/favicon.ico"></a>

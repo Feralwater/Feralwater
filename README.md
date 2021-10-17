@@ -12,6 +12,7 @@
 ![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-badge&logo=figma)
 ![ADOBE PHOTOSHOP](https://img.shields.io/badge/-ADOBE_PHOTOSHOP-090909?style=for-badge&logo=adobe-photoshop)
 ![STYLED COMPONENTS](https://img.shields.io/badge/-STYLED_COMPONENTS-090909?style=for-badge&logo=styled-components)
+![MATERIAL UI](https://img.shields.io/badge/-MATERIAL_UI-090909?style=for-badge&logo=material-ui)
 #### Welcome to my github repository
 <!--
 ```

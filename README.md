@@ -5,6 +5,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-badge&logo=javascript)
 ![REACT](https://img.shields.io/badge/-REACT-090909?style=for-badge&logo=react)
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-badge&logo=redux)
+![REDUX SAGA](https://img.shields.io/badge/-REDUX_SAGA-090909?style=for-badge&logo=redux-saga)
 ![GITHUB](https://img.shields.io/badge/-GITHUB-090909?style=for-badge&logo=github)
 ![SASS](https://img.shields.io/badge/-SASS-090909?style=for-badge&logo=sass)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-090909?style=for-badge&logo=bootstrap)
@@ -13,6 +14,8 @@
 ![ADOBE PHOTOSHOP](https://img.shields.io/badge/-ADOBE_PHOTOSHOP-090909?style=for-badge&logo=adobe-photoshop)
 ![STYLED COMPONENTS](https://img.shields.io/badge/-STYLED_COMPONENTS-090909?style=for-badge&logo=styled-components)
 ![STORYBOOK](https://img.shields.io/badge/-STORYBOOK-090909?style=for-badge&logo=storybook)
+![JEST](https://img.shields.io/badge/-JEST-090909?style=for-badge&logo=jest)
+
 #### Welcome to my github repository
 <!--
 ```
@@ -40,6 +43,8 @@ See ya 👋.
 - Bachelor of Engineering,    
 Polotsk State University
 2012 – 2018 
+- [ITRex React.js Lab](https://itrexgroup.com/), October 2021 - December 2021
+- [IT-INCUBATOR](https://it-incubator.by/), since August 2021
 - [English elementary](https://simpler.link/c/g0WAe), 2020
 - [English intermediate](https://simpler.link/c/wdbee), 2020
 - [English pre-intermediate](https://simpler.link/c/WLLkm), 2020
@@ -62,6 +67,7 @@ Polotsk State University
 
 <h2 id="projects">:hammer: My React+Redux projects</h2>
 
+<a href="https://itrex-lab.vercel.app/sign-in"><img height="40" src="https://github.com/Feralwater/itrex-lab/blob/master/public/favicon.ico"></a>
 <a href="https://startup-gitpage.vercel.app/"><img height="40" src="https://github.com/Feralwater/Startup-Summer-2021-Test-Task/blob/main/my-app/public/favicon.ico"></a>
 <a href="https://exchange-rate-ksbpoexgy-feralwater.vercel.app/"><img height="40" src="https://github.com/Feralwater/exchange-rate/blob/main/my-app/public/favicon.ico"></a>
 <a href="https://scandiweb-test-task-git-main-feralwater.vercel.app/"><img height="40" src="https://github.com/Feralwater/scandiweb-test-task/blob/main/public/favicon.ico"></a>
@@ -76,7 +82,7 @@ How to reach me:
 
 - 📫 Lineviktoriya@gmail.com    
 - :iphone: +375 (29) 224-48-84
-<!--![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->
+<!-- ![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->
 
 > 🦆Fun fact: _If it looks like a duck, swims like a duck and quacks like a duck, then it probably is a duck._
 

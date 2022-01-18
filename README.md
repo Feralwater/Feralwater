@@ -1,5 +1,5 @@
 # 👋 Hey there, my name is **Viсtoria Buyakova**!    
-## I`m *junior Front-end developer* from Minsk.    
+## I`m *Front-end developer* from Minsk.    
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-badge&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-badge&logo=javascript)

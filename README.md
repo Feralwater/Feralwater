@@ -16,6 +16,7 @@
 ![STORYBOOK](https://img.shields.io/badge/-STORYBOOK-090909?style=for-badge&logo=storybook)
 ![JEST](https://img.shields.io/badge/-JEST-090909?style=for-badge&logo=jest)
 ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-090909?style=for-badge&logo=graphql)
+![MUI](https://img.shields.io/badge/-MUI-090909?style=for-badge&logo=mui)
 
 #### Welcome to my github repository
 <!--

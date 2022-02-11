@@ -15,6 +15,7 @@
 ![STYLED COMPONENTS](https://img.shields.io/badge/-STYLED_COMPONENTS-090909?style=for-badge&logo=styled-components)
 ![STORYBOOK](https://img.shields.io/badge/-STORYBOOK-090909?style=for-badge&logo=storybook)
 ![JEST](https://img.shields.io/badge/-JEST-090909?style=for-badge&logo=jest)
+![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-090909?style=for-badge&logo=graphql)
 
 #### Welcome to my github repository
 <!--

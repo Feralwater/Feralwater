@@ -17,6 +17,7 @@
 ![JEST](https://img.shields.io/badge/-JEST-090909?style=for-badge&logo=jest)
 ![GRAPHQL](https://img.shields.io/badge/-GRAPHQL-090909?style=for-badge&logo=graphql)
 ![MUI](https://img.shields.io/badge/-MUI-090909?style=for-badge&logo=mui)
+![TYPESCRIPT](https://img.shields.io/badge/-TYPESCRIPT-090909?style=for-badge&logo=typescript)
 
 #### Welcome to my github repository
 <!--

@@ -1,5 +1,5 @@
 # 👋 Hey there, my name is **Viсtoria Buyakova**!    
-## I`m *Front-end developer* from Minsk.    
+## I`m *Front-end developer*.    
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-badge&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-090909?style=for-badge&logo=javascript)
@@ -35,8 +35,8 @@ See ya 👋.
 
 <h2 id="about">:clipboard: About me</h2>
 
-- 🔭 I’m a student of [IT-INCUBATOR](https://it-incubator.by/)
-- :books: I’m currently learning React, Redux, TypeScript
+- 🔭 I graduated from [IT-INCUBATOR](https://it-incubator.by/)
+- 👩‍💻 I’m currently working on project (React, Redux, TypeScript)
 - 👯 I’m looking to collaborate on interesting people whith the same interests
 - 💬 Ask me about whatever you want 😄
 

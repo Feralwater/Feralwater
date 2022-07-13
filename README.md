@@ -45,6 +45,7 @@ See ya 👋.
 - Bachelor of Engineering,    
 Polotsk State University
 2012 – 2018 
+- [English Advanced](https://www.efset.org/cert/SZChwm), February 2022
 - [ITRex React.js Lab](https://itrexgroup.com/), October 2021 - December 2021
 - [IT-INCUBATOR](https://it-incubator.by/), August 2021 - February 2022
 - [English elementary](https://simpler.link/c/g0WAe), 2020

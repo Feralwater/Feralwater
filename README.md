@@ -37,7 +37,7 @@ See ya 👋.
 <h2 id="about">:clipboard: About me</h2>
 
 - 🔭 I graduated from [IT-INCUBATOR](https://it-incubator.by/)
-- 👩‍💻 I’m currently working on project (React, Redux, TypeScript)
+- 👩‍💻 I currently work at [https://itrexgroup.com/](ITRex)
 - 👯 I’m looking to collaborate on interesting people whith the same interests
 - 💬 Ask me about whatever you want 😄
 

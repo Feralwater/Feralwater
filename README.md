@@ -85,7 +85,7 @@ Polotsk State University
 How to reach me:   
 
 - 📫 victoria.buyakova@gmail.com    
-- :iphone: +48 500-468-249
+
 <!-- ![](https://img.shields.io/badge/ail_me:-informational?style=for-badge&logo=gmail) -->
 
 > 🦆Fun fact: _If it looks like a duck, swims like a duck and quacks like a duck, then it probably is a duck._

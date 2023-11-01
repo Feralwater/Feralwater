@@ -83,7 +83,7 @@ Polotsk State University
 
 <h2 id="projectsvue">:hammer: My Vue projects</h2>
 
-<a href="https://github.com/Feralwater/MindMasters/blob/main/public/favicon.ico"><img height="40" src="https://mind-masters.vercel.app/"></a>
+<a href="https://mind-masters.vercel.app/"><img height="40" src="https://github.com/Feralwater/MindMasters/blob/main/public/favicon.ico"></a>
 
 
 <h2 id="contacts">:email: My contacts</h2>

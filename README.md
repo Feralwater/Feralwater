@@ -31,8 +31,8 @@ See ya 👋.
 > :clipboard: <a href="#about">About me</a>     
 > :mortar_board: <a href="#education">My education</a>    
 > :hammer: <a href="#projectshtml">My HTML+CSS+JS projects</a>  
-> :hammer: <a href="#projects">My React+Redux projects</a>
-> :hammer: <a href="#projectsvue">My Vue projects</a>
+> :hammer: <a href="#projects">My React+Redux projects</a>  
+> :hammer: <a href="#projectsvue">My Vue projects</a>  
 > :email: <a href="#contacts">My contacts</a>   
 
 <h2 id="about">:clipboard: About me</h2>

@@ -31,7 +31,8 @@ See ya 👋.
 > :clipboard: <a href="#about">About me</a>     
 > :mortar_board: <a href="#education">My education</a>    
 > :hammer: <a href="#projectshtml">My HTML+CSS+JS projects</a>  
-> :hammer: <a href="#projects">My React+Redux projects</a>  
+> :hammer: <a href="#projects">My React+Redux projects</a>
+> :hammer: <a href="#projectsvue">My Vue projects</a>
 > :email: <a href="#contacts">My contacts</a>   
 
 <h2 id="about">:clipboard: About me</h2>
@@ -79,6 +80,10 @@ Polotsk State University
 <a href="https://to-do-list-taupe-tau.vercel.app/"><img height="40" src="https://github.com/Feralwater/to-do-list/blob/main/my-app/public/favicon.ico"></a>
 <a href="https://posts-board-application.vercel.app/"><img height="40" src="https://github.com/Feralwater/PostsBoard-Application/blob/main/public/favicon.ico"></a>
 <a href="https://user-table.vercel.app/"><img height="40" src="https://github.com/Feralwater/user-table/blob/master/public/favicon.ico"></a>
+
+<h2 id="projectsvue">:hammer: My Vue projects</h2>
+
+<a href="https://itrex-lab.vercel.app/sign-in"><img height="40" src="https://github.com/Feralwater/itrex-lab/blob/master/public/favicon.ico"></a>
 
 
 <h2 id="contacts">:email: My contacts</h2>
